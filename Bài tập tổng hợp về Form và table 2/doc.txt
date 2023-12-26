@@ -1,0 +1,51 @@
+1.thẻ block
+    <div>
+    <p>
+    <h1> to <h6>
+    <ul>
+    <ol>
+    <li>
+    <table>
+    <tr>
+    <td>
+    <th>
+    <form>
+    <fieldset>
+    <legend>
+    <blockquote>
+    <address>
+    <pre>
+    <hr>
+    <header>
+    <footer>
+    <main>
+2.thẻ inline
+
+    <span>
+    <a>
+    <strong>
+    <em>
+    <img>
+    <br>
+    <i>
+    <code>
+    <abbr>
+    <small>
+    <cite>
+    <time>
+    <mark>
+    <sup>
+    <sub>
+    <u>
+    <del>
+    <ins>
+    <kbd>
+    <var>
+
+//b2
+<header>: Được sử dụng để định nghĩa phần đầu của trang web hoặc một phần của trang như tiêu đề.
+<nav>: Xác định một khu vực chứa các liên kết điều hướng.
+<main>: Xác định phần nội dung chính của trang.
+<section>: Định nghĩa một phần trong tài liệu. Thường đi kèm với một tiêu đề.
+<aside>: Được sử dụng để xác định một phần nằm bên cạnh nội dung chính, thường là các sidebar hoặc thông tin phụ.
+<footer>: Đặt ở cuối trang, định nghĩa phần chân trang thường chứa thông tin về tác giả, bản quyền, liên kết liên quan, và thông tin liên hệ.

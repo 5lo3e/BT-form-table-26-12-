@@ -1,0 +1,37 @@
+1.Css
+    CSS là ngôn ngữ tạo phong cách cho trang web – Cascading Style Sheet language. 
+    Nó dùng để tạo phong cách và định kiểu cho những yếu tố được viết dưới dạng ngôn ngữ đánh dấu, như là HTML.
+    Nó có thể điều khiển định dạng của nhiều trang web cùng lúc để tiết kiệm công sức cho người viết web.
+2.
+    Có ba cách nhúng CSS vào HTML là Inline, Internal và External
+    Inline: mã CSS viết tại thuộc tính style của phần tử HTML
+    Internal: mã CSS trong chính văn bản HTML, nằm trong khối thẻ <style>
+    External: mã CSS ở một file riêng biệt (thường là file.css) sau đó nạp vào HTML bằng phần tử html <link> (liên kết css với html)
+3.
+    thẻ <link> đặt ở phần <head> để nạp vào HTML theo cú pháp.
+    theo quy tắc
+4.inline>Internal>External
+5.External
+    vì dễ kiểm soát cũng như thay đổi hơn;
+6.
+    id : id là duy nhất của 1 phần tử ,chỉ đc gán cho  1 element.
+    class: class là 1 lớp 1 trường các phần tử đc đánh giống nhau.
+    tag name: khi sử dụng css cần phải dùng tag name trỏ đến các phần phần tử đc tag và css cho Nó
+7.
+    text-aligh
+    justifi-content
+    overline 
+    underline
+    text-decoration
+8.
+    boder-radius
+    height
+    width
+    padding 
+    boder 
+    margin
+9.
+    Reset CSS là một loại các rules của CSS, bạn có thể sử dụng để thiết lập các style của tất cả đối tượng HTML theo quy chuẩn nhất định
+    Do khi làm việc hay chạy chương trình có thể gặp 1 số trường hợp sử dụng các trình duyệt khác nhau như google chrome, firefox, cốc cốc ,...
+    các trình duyệt có các quy chuẩn về thiết kế khác nhau nên chúng ta phải sử dụng reset CSS để  có thể đưa về 1 quy chuẩn chung phù hợp vói tất cả  
+    các trình duyệt.
